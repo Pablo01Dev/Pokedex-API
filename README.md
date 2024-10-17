@@ -49,5 +49,5 @@ Projeto tem como desafio aplicar os conceitos aprendidos nas aulas do módulo de
 <br>
 
 ## 🙋🏻‍♂️ **Autor**
-<h3>Bruno Oliveira - Software Developer</h3>
+<h3>Pablo Guimarães - Software Developer</h3>
 
