@@ -44,7 +44,7 @@ Projeto tem como desafio aplicar os conceitos aprendidos nas aulas do módulo de
 <br>
 
 ## 💻 **Demonstração**
-<h4>Você pode acessar o resultado final do projeto<a href="https://pokedex-api-javascript.netlify.app/" target="_blank"> Clicando aqui</a></h4>
+<h4>Você pode acessar o resultado final do projeto<a href="https://pokedex-api-psi.vercel.app/" target="_blank"> Clicando aqui</a></h4>
 
 <br>
 
